@@ -15,13 +15,21 @@ Apk Link: https://drive.google.com/open?id=1Ywxh4PBeuySJU0DrIBNeId9QaWWabrur
 ## Current Features
 
 ✓ Search songs 
+
 ✓ Albums
+
 ✓ Get all songs 
+
 ✓ Pause 
+
 ✓ Play 
+
 ✓ Seek 
+
 ✓ Repeat 
+
 ✓ Shuffle
+
 ✓ Now Playing 
 
 ## TODO List
@@ -32,6 +40,6 @@ Apk Link: https://drive.google.com/open?id=1Ywxh4PBeuySJU0DrIBNeId9QaWWabrur
 
 ## Screenshots
 
-<img src="/pic-1.png" width="250" border="1" />  <img src="/pic-2.png" width="250" border="1" /> <img src="/pic-3.png" width="250" border="1" />
-<img src="/pic-4.png" width="250" border="1" /> <img src="/pic-5.png" width="250" border="1" /> <img src="/pic-6.png" width="250" border="1" />
+<kbd> <img src="/pic-1.png" width="250" border="1" /></kbd> <kbd><img src="/pic-2.png" width="250" border="1" /></kbd> <kbd><img src="/pic-3.png" width="250" border="1" /></kbd>
+<kbd><img src="/pic-4.png" width="250" border="1" /></kbd> <kbd><img src="/pic-5.png" width="250" border="1" /></kbd> <kbd><img src="/pic-6.png" width="250" border="1" /></kbd>
 
