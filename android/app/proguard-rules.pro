@@ -1,4 +1,7 @@
 ## Flutter wrapper
+-keep class com.google.**{*;} 
+-keepclassmembers class * implements java.io.Serializable { *; } 
+-keep class com.baseflow.permissionhandler.** { *; }
 -keep class io.flutter.app.** { *; }
 -keep class io.flutter.plugin.**  { *; }
 -keep class io.flutter.util.**  { *; }
