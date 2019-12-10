@@ -158,7 +158,7 @@ class _MusicHomepageState extends State<MusicHomepage> {
       child: Scaffold(
         body: SlidingUpPanel(
           minHeight: 115,
-          isPanelVisible: false,
+          isPanelVisible: true,
           panelSnapping: true,
           panel: panelOpenedView(_radius),
           controller: _panelController,
