@@ -6,11 +6,13 @@
 
 A Flutter music app made using BLoC pattern. (Only Works on Android for now)
 
-Recommended Flutter version: <b>1.7.8+hotfix.3</b>
+Recommended Minimum Flutter version: <b>1.7.8+hotfix.3</b>
 
 "Now Playing Screen" UI is inspired by: https://cdn.dribbble.com/users/1792477/screenshots/6855474/dribbble_045.png 
 
-Apk Link: https://drive.google.com/open?id=1Ywxh4PBeuySJU0DrIBNeId9QaWWabrur
+## Download
+
+<kbd> [<img src="./play-logo.png" width="200" />](https://play.google.com/store/apps/details?id=com.ironlad.flutter_musiq&hl=en)</kbd> <br/>
 
 ## Current Features
 
@@ -29,10 +31,6 @@ Apk Link: https://drive.google.com/open?id=1Ywxh4PBeuySJU0DrIBNeId9QaWWabrur
 ᛫ Add Local database to save user settings and preferences                  <br/>
 ᛫ Add statusbar notification of "now playing" song with playback controls   <br/>
 ᛫ Add Playlist feature                                                      <br/>
-
-## Download
-
-<kbd> <img src="./play-logo.png" width="250" border="1" /></kbd> <br/>
 
 ## Screenshots
 
