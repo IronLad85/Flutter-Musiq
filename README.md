@@ -30,6 +30,10 @@ Apk Link: https://drive.google.com/open?id=1Ywxh4PBeuySJU0DrIBNeId9QaWWabrur
 ᛫ Add statusbar notification of "now playing" song with playback controls   <br/>
 ᛫ Add Playlist feature                                                      <br/>
 
+## Download
+
+<kbd> <img src="./play-logo.eps" width="250" border="1" /></kbd> <br/>
+
 ## Screenshots
 
 <kbd> <img src="/pic-1.png" width="250" border="1" /></kbd> <kbd><img src="/pic-2.png" width="250" border="1" /></kbd> <kbd><img src="/pic-3.png" width="250" border="1" /></kbd><br/>
