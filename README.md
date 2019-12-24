@@ -32,7 +32,7 @@ Apk Link: https://drive.google.com/open?id=1Ywxh4PBeuySJU0DrIBNeId9QaWWabrur
 
 ## Download
 
-<kbd> <img src="./play-logo.eps" width="250" border="1" /></kbd> <br/>
+<kbd> <img src="./play-logo.png" width="250" border="1" /></kbd> <br/>
 
 ## Screenshots
 
